@@ -10,10 +10,10 @@ To run:
 
   pip install requests pandas matplotlib seaborn wordcloud
 
-* Enter your personal OpenAI API key and GitHub tokens into the code where it says to.
+* Enter your personal GitHub token into the code ('TOKEN' variable).
 
 * Run all cells (or file if running in Python). BE PATIENT, the code will take about an hour (give or take) to mine the GitHub repo.
 
 (OPTIONAL)
 
-To use this code on a different GitHub repository, replace the information in the REPO_NAME variable with the information of the wanted repo.
+To use this code on a different GitHub repository, replace the information in the 'REPO_NAME' variable with the information of the wanted repo.
