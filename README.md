@@ -1,4 +1,4 @@
-# mining_repos
+# repo_analysis
 
 The code in the Jupyter Notebook can be slightly edited to analyze most GitHub repositories.
 
