@@ -12,4 +12,8 @@ To run:
 
 * Enter your personal OpenAI API key and GitHub tokens into the code where it says to.
 
-* Run all cells (or file if running in Python)
+* Run all cells (or file if running in Python). BE PATIENT, the code will take about an hour (give or take) to mine the GitHub repo.
+
+(OPTIONAL)
+
+To use this code on a different GitHub repository, replace the information in the REPO_NAME variable with the information of the wanted repo.
