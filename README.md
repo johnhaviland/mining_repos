@@ -4,7 +4,7 @@ The code in the Jupyter Notebook can be slightly edited to analyze most GitHub r
 
 To run:
 
-* Download notebook file/take code from within the notebook. The other files are unnecessary as they will be created when the code is run.
+* Download notebook file/take code from within the notebook. You don't need to download the other files as they will be created when the code is run.
   
 * Ensure all the necessary Python libraries are installed into your current Python kernel by running the following command into your terminal:
 
